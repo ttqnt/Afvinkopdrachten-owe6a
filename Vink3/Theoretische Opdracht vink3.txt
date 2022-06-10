@@ -1,0 +1,12 @@
+1)
+5
+5,3
+5
+5,2
+5,2,8
+5,2
+5
+5,9
+5,1
+
+2) Push open haakje in een stack, pop bij een sluitende, als de stack aan het einde van de code leeg is kloppen de haakjes.
